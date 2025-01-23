@@ -1,10 +1,12 @@
 🌍 Waste Classification with AI
 Hi there! 👋 Welcome to this project, where we're tackling waste classification using the magic of Artificial Intelligence! 🧠💡 The goal here is to take images of waste and figure out whether they're Organic (like food scraps 🍎) or Recyclable (like plastic bottles 🧴). Let's dive in!
 
-Why This Project Matters
+Why This Project Matters?
 Managing waste responsibly is one of the biggest challenges of our time. By helping machines learn how to classify waste properly, we can take a small (but meaningful!) step toward making recycling and composting smarter and more efficient.
 
+
 What’s Inside?
+
 This project walks through:
 
 Preparing the dataset (22,500 images—thanks, Kaggle!).
@@ -13,6 +15,8 @@ Organic: Think banana peels, apple cores, or that wilted lettuce. 🥬
 Recyclable: Think bottles, cans, or cardboard. ♻️
 Beautiful visualizations to explore the data and evaluate the results.
 A future-ready plan to expand and improve. 🚀
+
+
 How It Works
 1️⃣ The Dataset
 We’re working with 22,500 images of waste.
